@@ -1,0 +1,6 @@
+/* frontend/src/App.css - small UI helpers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container { max-width: 1200px; }
